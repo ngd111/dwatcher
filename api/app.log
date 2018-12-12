@@ -1,0 +1,112 @@
+[2018-06-26 16:54:50,965 | ERROR] Exception on /recording/00AC8Q6LL8DIH9U604000VTAES000062 [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 595, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 24, in get
+    rv = self._query_db(query, calluuid)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 41, in _query_db
+    if len(rv) == 0:
+UnboundLocalError: local variable 'rv' referenced before assignment
+[2018-06-26 16:54:55,166 | ERROR] Exception on /recording/00AC8Q6LL8DIH9U604000VTAES000062 [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 595, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 24, in get
+    rv = self._query_db(query, calluuid)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 41, in _query_db
+    if len(rv) == 0:
+UnboundLocalError: local variable 'rv' referenced before assignment
+[2018-06-26 20:14:52,125 | ERROR] Exception on /recording/00AC8Q6LL8DIH9U604000VTAES000006 [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 87, in view
+    self = view.view_class(*class_args, **class_kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 17, in __init__
+    self.conn.execute('pragma journal_mode=wal;')
+OperationalError: unable to open database file
+[2018-06-26 20:14:55,287 | ERROR] Exception on /recording/00AC8Q6LL8DIH9U604000VTAES000006 [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 87, in view
+    self = view.view_class(*class_args, **class_kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 17, in __init__
+    self.conn.execute('pragma journal_mode=wal;')
+OperationalError: unable to open database file
+[2018-06-26 20:15:19,665 | ERROR] Exception on /recording/00AC8Q6LL8DIH9U604000VTAES000006 [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 87, in view
+    self = view.view_class(*class_args, **class_kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 17, in __init__
+    self.conn.execute('pragma journal_mode=wal;')
+OperationalError: unable to open database file
+[2018-06-26 20:15:43,372 | ERROR] Exception on /recording/00AC8Q6LL8DIH9U604000VTAES000006 [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 87, in view
+    self = view.view_class(*class_args, **class_kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 17, in __init__
+    self.conn.execute('pragma journal_mode=wal;')
+OperationalError: unable to open database file
+[2018-06-26 20:35:44,440 | ERROR] Exception on /recording/00AC8Q6LL8DIH9U604000VTAES000006 [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 87, in view
+    self = view.view_class(*class_args, **class_kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 17, in __init__
+    self.conn.execute('pragma journal_mode=wal;')
+OperationalError: unable to open database file
+[2018-06-26 20:57:19,473 | ERROR] Exception on /recording/00AC8Q6LL8DIH9U604000VTAES000006 [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 87, in view
+    self = view.view_class(*class_args, **class_kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 18, in __init__
+    self.conn.execute('pragma journal_mode=NONE;')
+OperationalError: unable to open database file

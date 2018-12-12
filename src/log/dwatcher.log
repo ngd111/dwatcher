@@ -1,0 +1,537 @@
+2018-06-20 20:56:43,773 - root - INFO - Base object initialized
+2018-06-20 20:56:43,773 - root - INFO - DB handler object initialized
+2018-06-20 20:56:43,773 - root - INFO - Enter to app
+2018-06-20 20:57:04,242 - root - WARNING - signal caught 15
+2018-06-20 20:57:04,243 - root - INFO - Exit from app
+2018-06-20 20:57:04,243 - root - INFO - DB handler object deinitalized
+2018-06-20 21:00:22,924 - root - INFO - Base object initialized
+2018-06-20 21:00:22,925 - root - INFO - DB handler object initialized
+2018-06-20 21:00:22,925 - root - INFO - Enter to app
+2018-06-20 21:01:48,014 - root - INFO - Exit from app
+2018-06-21 09:26:54,005 - root - INFO - Base object initialized
+2018-06-21 09:26:54,005 - root - INFO - DB handler object initialized
+2018-06-21 09:26:54,005 - root - INFO - Enter to app
+2018-06-21 09:27:12,026 - root - INFO - Exit from app
+2018-06-21 10:55:47,955 - root - INFO - Base object initialized
+2018-06-21 10:55:47,956 - root - INFO - DB handler object initialized
+2018-06-21 10:55:47,956 - root - INFO - Enter to app
+2018-06-21 10:55:51,961 - root - INFO - Exit from app
+2018-06-21 10:56:40,435 - root - INFO - Base object initialized
+2018-06-21 10:56:40,435 - root - INFO - DB handler object initialized
+2018-06-21 10:56:40,435 - root - INFO - Enter to app
+2018-06-21 10:56:42,438 - root - INFO - Exit from app
+2018-06-21 10:57:25,051 - root - INFO - Base object initialized
+2018-06-21 10:57:25,052 - root - INFO - DB handler object initialized
+2018-06-21 10:57:25,052 - root - INFO - Enter to app
+2018-06-21 10:57:27,055 - root - INFO - Exit from app
+2018-06-21 11:19:21,675 - root - INFO - Base object initialized
+2018-06-21 11:19:21,676 - root - INFO - DB handler object initialized
+2018-06-21 11:19:21,676 - root - INFO - Enter to app
+2018-06-21 11:19:26,680 - root - INFO - Exit from app
+2018-06-21 11:20:12,353 - root - INFO - Base object initialized
+2018-06-21 11:20:12,353 - root - INFO - DB handler object initialized
+2018-06-21 11:20:12,353 - root - INFO - Enter to app
+2018-06-21 11:20:14,356 - root - INFO - Exit from app
+2018-06-21 11:20:34,889 - root - INFO - Base object initialized
+2018-06-21 11:20:34,890 - root - INFO - DB handler object initialized
+2018-06-21 11:20:34,890 - root - INFO - Enter to app
+2018-06-21 11:21:39,288 - root - INFO - Base object initialized
+2018-06-21 11:21:39,289 - root - INFO - DB handler object initialized
+2018-06-21 11:21:39,289 - root - INFO - Enter to app
+2018-06-21 11:21:43,294 - root - INFO - Exit from app
+2018-06-21 12:31:40,153 - root - INFO - Base object initialized
+2018-06-21 12:31:40,154 - root - INFO - DB handler object initialized
+2018-06-21 12:31:40,154 - root - INFO - Enter to app
+2018-06-21 12:32:36,231 - root - ERROR - exception : insert error => column calluuid is not unique
+2018-06-21 12:33:48,868 - root - WARNING - signal caught 15
+2018-06-21 12:33:48,868 - root - INFO - Exit from app
+2018-06-21 12:33:48,869 - root - INFO - DB handler object deinitalized
+2018-06-21 12:36:19,288 - root - INFO - Base object initialized
+2018-06-21 12:36:19,288 - root - INFO - DB handler object initialized
+2018-06-21 12:36:19,289 - root - INFO - Enter to app
+2018-06-21 12:36:24,295 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000008', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000008_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3'),)
+2018-06-21 12:41:31,284 - root - WARNING - signal caught 15
+2018-06-21 12:41:31,284 - root - INFO - Exit from app
+2018-06-21 12:41:31,285 - root - INFO - DB handler object deinitalized
+2018-06-21 12:41:36,532 - root - INFO - Base object initialized
+2018-06-21 12:41:36,533 - root - INFO - DB handler object initialized
+2018-06-21 12:41:36,533 - root - INFO - Enter to app
+2018-06-21 12:46:45,132 - root - WARNING - signal caught 15
+2018-06-21 12:46:45,133 - root - INFO - Exit from app
+2018-06-21 12:46:45,133 - root - INFO - DB handler object deinitalized
+2018-06-21 12:48:33,873 - root - INFO - Base object initialized
+2018-06-21 12:48:33,874 - root - INFO - DB handler object initialized
+2018-06-21 12:48:33,874 - root - INFO - Enter to app
+2018-06-21 12:49:46,324 - root - WARNING - signal caught 15
+2018-06-21 12:49:46,325 - root - INFO - Exit from app
+2018-06-21 12:49:46,325 - root - INFO - DB handler object deinitalized
+2018-06-25 10:00:00,949 - root - INFO - Base object initialized
+2018-06-25 10:00:00,950 - root - INFO - DB handler object initialized
+2018-06-25 10:00:00,950 - root - INFO - Enter to app
+2018-06-25 10:00:31,984 - root - INFO - event handler : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000005_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 10:00:31,984 - root - INFO - event handler : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000006_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3
+2018-06-25 10:00:31,984 - root - INFO - event handler : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000008_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3
+2018-06-25 10:00:31,984 - root - INFO - event handler : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000009_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3
+2018-06-25 10:00:31,985 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000009', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000009_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000008', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000008_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000006', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000006_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000005', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000005_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'))
+2018-06-25 10:01:11,143 - root - WARNING - signal caught 15
+2018-06-25 10:01:11,143 - root - INFO - Exit from app
+2018-06-25 10:01:11,144 - root - INFO - DB handler object deinitalized
+2018-06-25 11:13:47,393 - root - INFO - Base object initialized
+2018-06-25 11:13:47,393 - root - INFO - DB handler object initialized
+2018-06-25 11:13:47,393 - root - INFO - Enter to app
+2018-06-25 11:13:49,013 - root - INFO - Exit from app
+2018-06-25 11:19:12,049 - root - INFO - Base object initialized
+2018-06-25 11:19:12,049 - root - INFO - DB handler object initialized
+2018-06-25 11:19:12,049 - root - INFO - Enter to app
+2018-06-25 11:19:13,922 - root - INFO - Exit from app
+2018-06-25 11:19:48,526 - root - INFO - Base object initialized
+2018-06-25 11:19:48,527 - root - INFO - DB handler object initialized
+2018-06-25 11:19:48,527 - root - INFO - Enter to app
+2018-06-25 11:19:50,420 - root - INFO - Exit from app
+2018-06-25 12:36:33,254 - root - INFO - Base object initialized
+2018-06-25 12:36:33,255 - root - INFO - DB handler object initialized
+2018-06-25 12:36:33,255 - root - INFO - Enter to app
+2018-06-25 12:36:35,582 - root - INFO - Exit from app
+2018-06-25 12:36:35,582 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-25 13:11:20,578 - root - INFO - Base object initialized
+2018-06-25 13:11:20,578 - root - INFO - DB handler object initialized
+2018-06-25 13:11:20,579 - root - INFO - Enter to app
+2018-06-25 13:11:57,617 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000005_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:11:57,618 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000005', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000005_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 13:11:57,618 - root - INFO - 1 records committed
+2018-06-25 13:12:28,641 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000015_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:12:28,642 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000025_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:12:28,642 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000035_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:12:28,647 - root - INFO - 3 records committed
+2018-06-25 13:13:25,316 - root - WARNING - signal caught 15
+2018-06-25 13:13:25,316 - root - INFO - Exit from app
+2018-06-25 13:13:25,319 - root - INFO - DB handler object deinitalized
+2018-06-25 13:14:12,623 - root - INFO - Base object initialized
+2018-06-25 13:14:12,624 - root - INFO - DB handler object initialized
+2018-06-25 13:14:12,624 - root - INFO - Enter to app
+2018-06-25 13:14:24,637 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000015_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:14:24,638 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000015', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000015_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 13:14:36,648 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000045_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:14:36,654 - root - INFO - 1 records committed
+2018-06-25 13:14:47,365 - root - INFO - Exit from app
+2018-06-25 13:14:47,366 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-25 13:19:56,529 - root - INFO - Base object initialized
+2018-06-25 13:19:56,529 - root - INFO - DB handler object initialized
+2018-06-25 13:19:56,529 - root - INFO - Enter to app
+2018-06-25 13:19:59,533 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000045_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:19:59,534 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000045', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000045_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 13:20:21,560 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000055_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:20:21,564 - root - INFO - 1 records committed
+2018-06-25 13:20:23,567 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000056_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:20:23,571 - root - INFO - 1 records committed
+2018-06-25 13:20:41,591 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000057_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:20:41,591 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000058_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:20:41,595 - root - INFO - 2 records committed
+2018-06-25 13:20:57,613 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U60.mp3
+2018-06-25 13:20:57,613 - root - ERROR - exception : regex error => 'NoneType' object has no attribute 'group', _filename => /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U60.mp3
+2018-06-25 13:20:57,613 - root - INFO - 0 records committed
+2018-06-25 13:21:21,636 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000059_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 13:21:21,645 - root - INFO - 1 records committed
+2018-06-25 13:25:07,853 - root - WARNING - signal caught 15
+2018-06-25 13:25:07,853 - root - INFO - Exit from app
+2018-06-25 13:25:07,856 - root - INFO - DB handler object deinitalized
+2018-06-25 15:07:30,704 - root - INFO - Base object initialized
+2018-06-25 15:07:30,706 - root - INFO - DB handler object initialized
+2018-06-25 15:07:30,706 - root - INFO - Enter to app
+2018-06-25 15:07:30,706 - root - INFO - Exit from app
+2018-06-25 15:09:01,192 - root - INFO - Base object initialized
+2018-06-25 15:09:01,193 - root - INFO - DB handler object initialized
+2018-06-25 15:09:01,193 - root - INFO - Enter to app
+2018-06-25 15:09:01,193 - root - INFO - Exit from app
+2018-06-25 15:11:03,074 - root - INFO - Base object initialized
+2018-06-25 15:11:03,075 - root - INFO - DB handler object initialized
+2018-06-25 15:11:03,075 - root - INFO - Enter to app
+2018-06-25 15:11:18,871 - root - WARNING - signal caught 10
+2018-06-25 15:11:29,309 - root - WARNING - signal caught 15
+2018-06-25 15:11:29,309 - root - INFO - Exit from app
+2018-06-25 15:12:12,209 - root - INFO - Base object initialized
+2018-06-25 15:12:12,210 - root - INFO - DB handler object initialized
+2018-06-25 15:12:12,210 - root - INFO - Enter to app
+2018-06-25 15:13:46,765 - root - WARNING - signal caught 15
+2018-06-25 15:13:46,766 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:13:46,766 - root - INFO - Exit from app
+2018-06-25 15:13:46,769 - root - INFO - DB handler object deinitalized
+2018-06-25 15:22:50,250 - root - INFO - Base object initialized
+2018-06-25 15:22:50,251 - root - INFO - DB handler object initialized
+2018-06-25 15:22:50,251 - root - INFO - Enter to app
+2018-06-25 15:23:34,293 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000058_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 15:23:34,294 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000058', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000058_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 15:23:51,311 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000060_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 15:23:51,318 - root - INFO - 1 records committed
+2018-06-25 15:24:17,726 - root - WARNING - signal caught 10
+2018-06-25 15:24:17,726 - root - WARNING - configuration file reloaded
+2018-06-25 15:24:50,760 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 15:24:50,769 - root - INFO - 1 records committed
+2018-06-25 15:26:29,948 - root - WARNING - signal caught 15
+2018-06-25 15:26:29,949 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:26:29,949 - root - INFO - Exit from app
+2018-06-25 15:26:29,952 - root - INFO - DB handler object deinitalized
+2018-06-25 15:27:02,640 - root - INFO - Base object initialized
+2018-06-25 15:27:02,641 - root - INFO - DB handler object initialized
+2018-06-25 15:27:02,641 - root - INFO - Enter to app
+2018-06-25 15:27:15,712 - root - WARNING - signal caught 10
+2018-06-25 15:27:15,713 - root - WARNING - configuration file reloaded
+2018-06-25 15:31:47,922 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 15:31:47,922 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000061', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 15:32:45,962 - root - WARNING - signal caught 15
+2018-06-25 15:32:45,962 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:32:45,962 - root - INFO - Exit from app
+2018-06-25 15:32:45,965 - root - INFO - DB handler object deinitalized
+2018-06-25 15:32:48,464 - root - INFO - Base object initialized
+2018-06-25 15:32:48,465 - root - INFO - DB handler object initialized
+2018-06-25 15:32:48,465 - root - INFO - Enter to app
+2018-06-25 15:35:26,761 - root - WARNING - signal caught 15
+2018-06-25 15:35:26,761 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:35:26,762 - root - INFO - Exit from app
+2018-06-25 15:35:26,764 - root - INFO - DB handler object deinitalized
+2018-06-25 15:35:30,925 - root - INFO - Base object initialized
+2018-06-25 15:35:30,926 - root - INFO - DB handler object initialized
+2018-06-25 15:35:30,926 - root - INFO - Enter to app
+2018-06-25 15:36:41,675 - root - WARNING - signal caught 15
+2018-06-25 15:36:41,676 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:36:41,676 - root - INFO - Exit from app
+2018-06-25 15:36:41,679 - root - INFO - DB handler object deinitalized
+2018-06-25 15:36:46,127 - root - INFO - Base object initialized
+2018-06-25 15:36:46,127 - root - INFO - DB handler object initialized
+2018-06-25 15:36:46,127 - root - INFO - Enter to app
+2018-06-25 15:37:13,009 - root - WARNING - signal caught 15
+2018-06-25 15:37:13,009 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:37:13,011 - root - INFO - Exit from app
+2018-06-25 15:37:13,013 - root - INFO - DB handler object deinitalized
+2018-06-25 15:38:31,411 - root - WARNING - signal caught 10
+2018-06-25 15:38:31,411 - root - WARNING - configuration file reloaded
+2018-06-25 15:38:37,418 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000061', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 15:38:57,336 - root - WARNING - signal caught 10
+2018-06-25 15:38:57,337 - root - WARNING - configuration file reloaded
+2018-06-25 15:39:00,340 - root - INFO - event collector : /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3
+2018-06-25 15:39:00,340 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000061', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 15:39:26,552 - root - WARNING - signal caught 10
+2018-06-25 15:39:26,553 - root - WARNING - configuration file reloaded
+2018-06-25 15:43:28,018 - root - WARNING - signal caught 15
+2018-06-25 15:43:28,018 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:45:11,350 - root - INFO - Base object initialized
+2018-06-25 15:45:11,351 - root - INFO - DB handler object initialized
+2018-06-25 15:45:11,351 - root - INFO - Enter to app
+2018-06-25 15:52:18,569 - root - WARNING - signal caught 15
+2018-06-25 15:52:18,570 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:52:18,570 - root - INFO - Exit from app
+2018-06-25 15:52:18,573 - root - INFO - DB handler object deinitalized
+2018-06-25 15:52:21,188 - root - INFO - Log directory : ./log
+2018-06-25 15:52:21,188 - root - INFO - Recording storage : ./rec
+2018-06-25 15:52:21,188 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 15:52:21,188 - root - INFO - Log filename  : dwatcher
+2018-06-25 15:52:21,189 - root - INFO - Log level     : standard
+2018-06-25 15:52:21,189 - root - INFO - Base object initialized
+2018-06-25 15:52:21,189 - root - INFO - DB handler object initialized
+2018-06-25 15:52:21,189 - root - INFO - Enter to app
+2018-06-25 15:53:00,014 - root - WARNING - signal caught 15
+2018-06-25 15:53:00,014 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:53:00,015 - root - INFO - Exit from app
+2018-06-25 15:53:00,017 - root - INFO - DB handler object deinitalized
+2018-06-25 15:54:25,316 - root - INFO - Log directory : ./log
+2018-06-25 15:54:25,316 - root - INFO - Recording storage : ./rec
+2018-06-25 15:54:25,316 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 15:54:25,316 - root - INFO - Log filename  : dwatcher
+2018-06-25 15:54:25,316 - root - INFO - Log level     : standard
+2018-06-25 15:54:25,316 - root - INFO - Base object initialized
+2018-06-25 15:54:32,325 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000063', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000063_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 15:54:55,078 - root - WARNING - signal caught 15
+2018-06-25 15:54:55,079 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:56:30,579 - root - INFO - Log directory : ./log
+2018-06-25 15:56:30,580 - root - INFO - Recording storage : ./rec
+2018-06-25 15:56:30,580 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 15:56:30,580 - root - INFO - Log filename  : dwatcher
+2018-06-25 15:56:30,580 - root - INFO - Log level     : standard
+2018-06-25 15:57:09,619 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000063', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000063_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 15:57:19,639 - root - INFO - 1 records committed
+2018-06-25 15:58:08,870 - root - WARNING - signal caught 15
+2018-06-25 15:58:08,870 - root - CRITICAL - Program is terminated 15
+2018-06-25 15:58:21,930 - root - INFO - Log directory : ./log
+2018-06-25 15:58:21,930 - root - INFO - Recording storage : ./rec
+2018-06-25 15:58:21,930 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 15:58:21,930 - root - INFO - Log filename  : dwatcher
+2018-06-25 15:58:21,931 - root - INFO - Log level     : standard
+2018-06-25 15:58:26,945 - root - INFO - 1 records committed
+2018-06-25 15:58:44,110 - root - WARNING - signal caught 10
+2018-06-25 15:58:44,110 - root - WARNING - configuration file reloaded
+2018-06-25 15:58:55,126 - root - INFO - 1 records committed
+2018-06-25 15:59:33,134 - root - WARNING - signal caught 10
+2018-06-25 15:59:33,135 - root - WARNING - configuration file reloaded
+2018-06-25 15:59:41,144 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 15:59:55,168 - root - WARNING - signal caught 15
+2018-06-25 15:59:55,168 - root - CRITICAL - Program is terminated 15
+2018-06-25 16:01:59,522 - root - INFO - Log directory : ./log
+2018-06-25 16:01:59,523 - root - INFO - Recording storage : ./rec
+2018-06-25 16:01:59,523 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 16:01:59,523 - root - INFO - Log filename  : dwatcher
+2018-06-25 16:01:59,523 - root - INFO - Log level     : debug
+2018-06-25 16:02:02,527 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 16:03:10,595 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 16:03:17,941 - root - WARNING - signal caught 15
+2018-06-25 16:03:17,941 - root - CRITICAL - Program is terminated 15
+2018-06-25 16:03:20,008 - root - INFO - Log directory : ./log
+2018-06-25 16:03:20,008 - root - INFO - Recording storage : ./rec
+2018-06-25 16:03:20,008 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 16:03:20,008 - root - INFO - Log filename  : dwatcher
+2018-06-25 16:03:20,008 - root - INFO - Log level     : debug
+2018-06-25 16:04:09,821 - root - WARNING - signal caught 15
+2018-06-25 16:04:09,821 - root - CRITICAL - Program is terminated 15
+2018-06-25 16:04:11,722 - root - INFO - Log directory : ./log
+2018-06-25 16:04:11,722 - root - INFO - Recording storage : ./rec
+2018-06-25 16:04:11,722 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 16:04:11,723 - root - INFO - Log filename  : dwatcher
+2018-06-25 16:04:11,723 - root - INFO - Log level     : debug
+2018-06-25 16:04:47,753 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 16:05:39,988 - root - WARNING - signal caught 15
+2018-06-25 16:05:39,988 - root - CRITICAL - Program is terminated 15
+2018-06-25 16:11:42,415 - root - INFO - Log directory : ./log
+2018-06-25 16:11:42,415 - root - INFO - Recording storage : ./rec
+2018-06-25 16:11:42,415 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 16:11:42,415 - root - INFO - Log filename  : dwatcher
+2018-06-25 16:11:42,416 - root - INFO - Log level     : debug
+2018-06-25 16:11:46,421 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 16:12:20,702 - root - WARNING - signal caught 10
+2018-06-25 16:12:20,703 - root - WARNING - configuration file reloaded
+2018-06-25 16:12:24,706 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 16:12:47,735 - root - INFO - 2 records committed
+2018-06-25 16:13:03,529 - root - WARNING - signal caught 10
+2018-06-25 16:13:03,529 - root - WARNING - configuration file reloaded
+2018-06-25 16:13:22,559 - root - INFO - 2 records committed
+2018-06-25 16:14:09,875 - root - WARNING - signal caught 15
+2018-06-25 16:14:09,876 - root - CRITICAL - Program is terminated 15
+2018-06-25 16:14:16,715 - root - INFO - Log directory : ./log
+2018-06-25 16:14:16,715 - root - INFO - Recording storage : ./rec
+2018-06-25 16:14:16,716 - root - INFO - WebDav Base URI : /recordings
+2018-06-25 16:14:16,716 - root - INFO - Log filename  : dwatcher
+2018-06-25 16:14:16,716 - root - INFO - Log level     : debug
+2018-06-25 16:14:20,722 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000070', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000070_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 16:14:48,308 - root - WARNING - signal caught 10
+2018-06-25 16:14:48,309 - root - WARNING - configuration file reloaded
+2018-06-25 16:14:51,313 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000070', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000070_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'),)
+2018-06-25 16:24:43,136 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 14:36:24,661 - root - INFO - Log directory : ./log
+2018-06-26 14:36:24,662 - root - INFO - Recording storage : ./rec
+2018-06-26 14:36:24,662 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 14:36:24,662 - root - INFO - Log filename  : dwatcher
+2018-06-26 14:36:24,662 - root - INFO - Log level     : standard
+2018-06-26 14:36:34,106 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 14:36:43,076 - root - INFO - Log directory : ./log
+2018-06-26 14:36:43,076 - root - INFO - Recording storage : ./rec
+2018-06-26 14:36:43,076 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 14:36:43,076 - root - INFO - Log filename  : dwatcher
+2018-06-26 14:36:43,076 - root - INFO - Log level     : standard
+2018-06-26 14:36:48,192 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 14:37:15,343 - root - INFO - Log directory : ./log
+2018-06-26 14:37:15,343 - root - INFO - Recording storage : ./rec
+2018-06-26 14:37:15,343 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 14:37:15,343 - root - INFO - Log filename  : dwatcher
+2018-06-26 14:37:15,343 - root - INFO - Log level     : standard
+2018-06-26 14:37:16,873 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 14:37:32,955 - root - INFO - Log directory : ./log
+2018-06-26 14:37:32,955 - root - INFO - Recording storage : ./rec
+2018-06-26 14:37:32,955 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 14:37:32,956 - root - INFO - Log filename  : dwatcher
+2018-06-26 14:37:32,956 - root - INFO - Log level     : standard
+2018-06-26 14:38:01,312 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 18:33:26,706 - root - INFO - Log directory : ./log
+2018-06-26 18:33:26,707 - root - INFO - Recording storage : ./rec
+2018-06-26 18:33:26,707 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 18:33:26,707 - root - INFO - Log filename  : dwatcher
+2018-06-26 18:33:26,707 - root - INFO - Log level     : standard
+2018-06-26 18:34:44,455 - root - INFO - start time : 1530005684.455599
+2018-06-26 18:34:44,456 - root - ERROR - exception : regex error => 'NoneType' object has no attribute 'group', _filename => /home/winddori/dev/rfwatcher/src/rec/2018/00AC8Q6LL8DIH9U60.mp3
+2018-06-26 18:34:44,469 - root - INFO - 24 records committed
+2018-06-26 18:34:44,469 - root - INFO - end   time : 1530005684.469817
+2018-06-26 18:35:13,332 - root - INFO - start time : 1530005713.332580
+2018-06-26 18:35:13,333 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000070', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000070_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000069', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000069_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000068', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000068_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000067', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000067_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000065', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000065_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000064', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000064_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000063', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000063_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000062', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000062_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000061', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000060', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000060_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000059', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000059_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000058', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000058_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000057', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000057_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000056', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000056_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000055', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000055_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000045', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000045_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000035', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000035_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000025', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000025_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000015', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000015_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000009', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000009_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000008', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000008_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000006', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000006_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000005', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000005_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'))
+2018-06-26 18:35:13,333 - root - INFO - end   time : 1530005713.333615
+2018-06-26 18:35:53,506 - root - INFO - start time : 1530005753.506514
+2018-06-26 18:35:53,512 - root - INFO - 10 records committed
+2018-06-26 18:35:53,512 - root - INFO - end   time : 1530005753.512950
+2018-06-26 18:35:53,613 - root - INFO - start time : 1530005753.613293
+2018-06-26 18:35:53,617 - root - INFO - 14 records committed
+2018-06-26 18:35:53,617 - root - INFO - end   time : 1530005753.617623
+2018-06-26 20:11:16,244 - root - WARNING - signal caught 15
+2018-06-26 20:11:16,244 - root - CRITICAL - Program is terminated 15
+2018-06-26 20:11:24,687 - root - INFO - Log directory : ./log
+2018-06-26 20:11:24,687 - root - INFO - Recording storage : ./rec
+2018-06-26 20:11:24,688 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 20:11:24,688 - root - INFO - Log filename  : dwatcher
+2018-06-26 20:11:24,688 - root - INFO - Log level     : standard
+2018-06-26 20:12:13,046 - root - INFO - start time : 1530011533.046157
+2018-06-26 20:12:13,051 - root - INFO - 24 records committed
+2018-06-26 20:12:13,052 - root - INFO - end   time : 1530011533.052119
+2018-06-26 20:33:25,462 - root - WARNING - signal caught 15
+2018-06-26 20:33:25,462 - root - CRITICAL - Program is terminated 15
+2018-06-26 20:35:21,927 - root - INFO - Log directory : ./log
+2018-06-26 20:35:21,928 - root - INFO - Recording storage : ./rec
+2018-06-26 20:35:21,928 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 20:35:21,928 - root - INFO - Log filename  : dwatcher
+2018-06-26 20:35:21,928 - root - INFO - Log level     : standard
+2018-06-26 20:36:34,366 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 20:56:41,124 - root - INFO - Log directory : ./log
+2018-06-26 20:56:41,125 - root - INFO - Recording storage : ./rec
+2018-06-26 20:56:41,125 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 20:56:41,125 - root - INFO - Log filename  : dwatcher
+2018-06-26 20:56:41,125 - root - INFO - Log level     : standard
+2018-06-26 20:56:53,739 - root - INFO - start time : 1530014213.739878
+2018-06-26 20:56:53,764 - root - INFO - 17 records committed
+2018-06-26 20:56:53,764 - root - INFO - end   time : 1530014213.764206
+2018-06-26 20:56:54,465 - root - INFO - start time : 1530014214.465183
+2018-06-26 20:56:54,474 - root - INFO - 7 records committed
+2018-06-26 20:56:54,474 - root - INFO - end   time : 1530014214.474497
+2018-06-26 20:58:39,890 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 20:59:02,203 - root - INFO - Log directory : ./log
+2018-06-26 20:59:02,203 - root - INFO - Recording storage : ./rec
+2018-06-26 20:59:02,204 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 20:59:02,204 - root - INFO - Log filename  : dwatcher
+2018-06-26 20:59:02,204 - root - INFO - Log level     : standard
+2018-06-26 21:02:06,705 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 21:03:37,835 - root - INFO - Log directory : ./log
+2018-06-26 21:03:37,836 - root - INFO - Recording storage : ./rec
+2018-06-26 21:03:37,836 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 21:03:37,836 - root - INFO - Log filename  : dwatcher
+2018-06-26 21:03:37,836 - root - INFO - Log level     : standard
+2018-06-26 21:03:39,286 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 21:03:44,712 - root - INFO - Log directory : ./log
+2018-06-26 21:03:44,713 - root - INFO - Recording storage : ./rec
+2018-06-26 21:03:44,713 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 21:03:44,713 - root - INFO - Log filename  : dwatcher
+2018-06-26 21:03:44,713 - root - INFO - Log level     : standard
+2018-06-26 21:03:49,620 - root - INFO - start time : 1530014629.620065
+2018-06-26 21:03:49,630 - root - INFO - 24 records committed
+2018-06-26 21:03:49,631 - root - INFO - end   time : 1530014629.631013
+2018-06-26 21:04:05,432 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 21:04:10,165 - root - INFO - Log directory : ./log
+2018-06-26 21:04:10,166 - root - INFO - Recording storage : ./rec
+2018-06-26 21:04:10,166 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 21:04:10,166 - root - INFO - Log filename  : dwatcher
+2018-06-26 21:04:10,166 - root - INFO - Log level     : standard
+2018-06-26 21:04:10,881 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 21:04:55,332 - root - INFO - Log directory : ./log
+2018-06-26 21:04:55,333 - root - INFO - Recording storage : ./rec
+2018-06-26 21:04:55,333 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 21:04:55,333 - root - INFO - Log filename  : dwatcher
+2018-06-26 21:04:55,333 - root - INFO - Log level     : standard
+2018-06-26 21:04:58,137 - root - INFO - start time : 1530014698.137686
+2018-06-26 21:04:58,143 - root - INFO - 24 records committed
+2018-06-26 21:04:58,143 - root - INFO - end   time : 1530014698.143134
+2018-06-26 21:09:15,394 - root - WARNING - Interrupt occurred. Program is terminated
+2018-06-26 21:09:26,598 - root - INFO - Log directory : ./log
+2018-06-26 21:09:26,599 - root - INFO - Recording storage : ./rec
+2018-06-26 21:09:26,599 - root - INFO - WebDav Base URI : /recordings
+2018-06-26 21:09:26,599 - root - INFO - Log filename  : dwatcher
+2018-06-26 21:09:26,599 - root - INFO - Log level     : standard
+2018-06-27 09:27:08,197 - root - INFO - Log directory : ./log
+2018-06-27 09:27:08,198 - root - INFO - Recording storage : ./rec
+2018-06-27 09:27:08,198 - root - INFO - WebDav Base URI : /recordings
+2018-06-27 09:27:08,198 - root - INFO - Log filename  : dwatcher
+2018-06-27 09:27:08,198 - root - INFO - Log level     : standard
+2018-06-27 09:30:03,383 - root - INFO - start time : 1530059403.383126
+2018-06-27 09:30:03,383 - root - ERROR - exception : insert error => column calluuid is not unique, calluuid => (('00AC8Q6LL8DIH9U604000VTAES000070', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000070_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000069', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000069_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000068', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000068_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000067', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000067_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000065', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000065_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000064', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000064_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000063', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000063_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000062', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000062_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000061', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000060', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000060_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000059', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000059_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000058', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000058_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000057', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000057_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000056', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000056_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000055', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000055_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000045', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000045_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000035', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000035_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000025', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000025_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000015', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000015_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000009', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000009_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000008', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000008_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000006', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000006_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000005', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000005_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'))
+2018-06-27 09:30:03,383 - root - INFO - end   time : 1530059403.383953
+2018-06-27 09:34:25,473 - root - INFO - start time : 1530059665.473842
+2018-06-27 09:34:25,474 - root - INFO - 11 records committed
+2018-06-27 09:34:25,474 - root - INFO - end   time : 1530059665.474529
+2018-06-27 09:34:28,977 - root - INFO - start time : 1530059668.976990
+2018-06-27 09:34:28,977 - root - INFO - 3 records committed
+2018-06-27 09:34:28,977 - root - INFO - end   time : 1530059668.977455
+2018-06-27 09:34:29,678 - root - INFO - start time : 1530059669.678067
+2018-06-27 09:34:29,678 - root - INFO - 10 records committed
+2018-06-27 09:34:29,678 - root - INFO - end   time : 1530059669.678626
+2018-06-27 09:34:33,883 - root - INFO - start time : 1530059673.883840
+2018-06-27 09:34:33,884 - root - INFO - 15 records committed
+2018-06-27 09:34:33,884 - root - INFO - end   time : 1530059673.884510
+2018-06-27 10:17:50,073 - root - WARNING - Interrupt occurred. Program is terminated
+2018-07-05 16:22:02,218 - root - INFO - Log directory : ./log
+2018-07-05 16:22:02,219 - root - INFO - Recording storage : ./rec
+2018-07-05 16:22:02,220 - root - INFO - WebDav Base URI : /recordings
+2018-07-05 16:22:02,220 - root - INFO - Log filename  : dwatcher
+2018-07-05 16:22:02,220 - root - INFO - Log level     : standard
+2018-07-05 16:22:09,148 - root - WARNING - Interrupt occurred. Program is terminated
+2018-07-05 16:28:51,240 - root - INFO - Log directory : ./log
+2018-07-05 16:28:51,240 - root - INFO - Recording storage : ./rec
+2018-07-05 16:28:51,240 - root - INFO - WebDav Base URI : /recordings
+2018-07-05 16:28:51,240 - root - INFO - Log filename  : dwatcher
+2018-07-05 16:28:51,240 - root - INFO - Log level     : standard
+2018-07-05 16:29:08,065 - root - INFO - start time : 1530775748.064995
+2018-07-05 16:29:08,070 - root - INFO - 1 records committed
+2018-07-05 16:29:08,070 - root - INFO - end   time : 1530775748.070606
+2018-07-05 16:29:17,181 - root - INFO - start time : 1530775757.181387
+2018-07-05 16:29:17,198 - root - ERROR - exception : insert error => (1062, u"Duplicate entry '00AC8Q6LL8DIH9U604000VTAES000227' for key 'idx_recording_u'"), calluuid => (('00AC8Q6LL8DIH9U604000VTAES000227', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000227_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000126', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000126_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000125', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000125_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000124', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000124_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000123', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000123_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000122', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000122_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000121', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000121_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000120', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000120_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000119', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000119_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000118', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000118_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000117', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000117_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000116', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000116_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000115', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000115_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000114', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000114_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000113', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000113_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000112', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000112_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000111', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000111_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000110', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000110_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000109', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000109_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000108', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000108_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000107', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000107_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000106', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000106_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000105', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000105_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000104', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000104_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000103', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000103_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000102', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000102_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000101', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000101_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000100', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000100_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000099', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000099_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000098', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000098_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000097', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000097_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000096', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000096_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000095', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000095_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000094', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000094_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000093', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000093_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000092', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000092_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000091', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000091_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000090', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000090_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000080', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000080_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000070', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000070_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000069', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000069_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000068', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000068_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000067', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000067_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000066', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000066_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000065', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000065_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000064', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000064_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000063', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000063_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000062', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000062_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000061', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000061_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000060', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000060_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000059', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000059_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000058', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000058_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000057', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000057_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000056', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000056_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000055', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000055_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000045', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000045_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000035', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000035_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000025', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000025_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000015', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000015_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000009', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000009_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000008', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000008_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000006', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000006_2018-06-20_14-50-58-011F01B2-100065F7-00000003.mp3', '20180620'), ('00AC8Q6LL8DIH9U604000VTAES000005', u'/recordings/2018/06/20/00AC8Q6LL8DIH9U604000VTAES000005_2018-06-20_14-50-58-011F01B2-100065F7-00000002.mp3', '20180620'))
+2018-07-05 16:29:17,199 - root - INFO - end   time : 1530775757.199009
+2018-07-05 16:30:28,676 - root - INFO - start time : 1530775828.676432
+2018-07-05 16:30:28,684 - root - INFO - 63 records committed
+2018-07-05 16:30:28,684 - root - INFO - end   time : 1530775828.684485
+2018-07-05 16:31:55,972 - root - WARNING - Interrupt occurred. Program is terminated
+2018-07-05 17:23:04,940 - root - INFO - Log directory : ./log
+2018-07-05 17:23:04,940 - root - INFO - Recording storage : ./rec
+2018-07-05 17:23:04,940 - root - INFO - WebDav Base URI : /recordings
+2018-07-05 17:23:04,941 - root - INFO - Log filename  : dwatcher
+2018-07-05 17:23:04,941 - root - INFO - Log level     : standard
+2018-07-05 17:23:10,906 - root - WARNING - Interrupt occurred. Program is terminated
+2018-07-05 17:43:07,115 - root - INFO - Log directory : ./log
+2018-07-05 17:43:07,116 - root - INFO - Recording storage : ./rec
+2018-07-05 17:43:07,116 - root - INFO - WebDav Base URI : /recordings
+2018-07-05 17:43:07,116 - root - INFO - Log filename  : dwatcher
+2018-07-05 17:43:07,116 - root - INFO - Log level     : standard
+2018-07-05 17:43:21,330 - root - WARNING - Interrupt occurred. Program is terminated
+2018-07-05 17:43:22,687 - root - INFO - Log directory : ./log
+2018-07-05 17:43:22,687 - root - INFO - Recording storage : ./rec
+2018-07-05 17:43:22,687 - root - INFO - WebDav Base URI : /recordings
+2018-07-05 17:43:22,687 - root - INFO - Log filename  : dwatcher
+2018-07-05 17:43:22,687 - root - INFO - Log level     : standard
+2018-07-05 17:43:49,944 - root - WARNING - Interrupt occurred. Program is terminated
+2018-07-05 17:44:35,373 - root - INFO - Log directory : ./log
+2018-07-05 17:44:35,373 - root - INFO - Recording storage : ./rec
+2018-07-05 17:44:35,373 - root - INFO - WebDav Base URI : /recordings
+2018-07-05 17:44:35,373 - root - INFO - Log filename  : dwatcher
+2018-07-05 17:44:35,373 - root - INFO - Log level     : standard
+2018-07-05 17:44:38,313 - root - WARNING - Interrupt occurred. Program is terminated
+2018-07-05 17:44:57,526 - root - INFO - Log directory : ./log
+2018-07-05 17:44:57,526 - root - INFO - Recording storage : ./rec
+2018-07-05 17:44:57,526 - root - INFO - WebDav Base URI : /recordings
+2018-07-05 17:44:57,526 - root - INFO - Log filename  : dwatcher
+2018-07-05 17:44:57,526 - root - INFO - Log level     : standard
+2018-07-05 17:45:05,762 - root - WARNING - Interrupt occurred. Program is terminated
+2018-11-09 09:47:12,336 - root - INFO - Log directory : ./log
+2018-11-09 09:47:12,337 - root - INFO - Recording storage : ./rec
+2018-11-09 09:47:12,337 - root - INFO - WebDav Base URI : /recordings
+2018-11-09 09:47:12,338 - root - INFO - Log filename  : dwatcher
+2018-11-09 09:47:12,338 - root - INFO - Log level     : standard
+2018-11-09 09:47:31,696 - root - WARNING - signal caught 15
+2018-11-09 09:47:31,696 - root - CRITICAL - Program is terminated 15
+2018-11-09 09:47:37,680 - root - INFO - Log directory : ./log
+2018-11-09 09:47:37,680 - root - INFO - Recording storage : ./rec
+2018-11-09 09:47:37,680 - root - INFO - WebDav Base URI : /recordings
+2018-11-09 09:47:37,680 - root - INFO - Log filename  : dwatcher
+2018-11-09 09:47:37,681 - root - INFO - Log level     : standard
+2018-11-09 09:51:10,456 - root - WARNING - signal caught 15
+2018-11-09 09:51:10,457 - root - CRITICAL - Program is terminated 15
+2018-11-09 09:51:38,534 - root - INFO - Log directory : ./log
+2018-11-09 09:51:38,534 - root - INFO - Recording storage : ./rec
+2018-11-09 09:51:38,535 - root - INFO - WebDav Base URI : /storage/recordings
+2018-11-09 09:51:38,535 - root - INFO - Log filename  : dwatcher
+2018-11-09 09:51:38,535 - root - INFO - Log level     : standard
+2018-11-09 09:53:23,855 - root - WARNING - signal caught 15
+2018-11-09 09:53:23,855 - root - CRITICAL - Program is terminated 15
+2018-11-09 09:54:00,588 - root - INFO - Log directory : ./log
+2018-11-09 09:54:00,589 - root - INFO - Recording storage : ./rec
+2018-11-09 09:54:00,589 - root - INFO - WebDav Base URI : /recordings
+2018-11-09 09:54:00,589 - root - INFO - Log filename  : dwatcher
+2018-11-09 09:54:00,589 - root - INFO - Log level     : standard
+2018-11-09 09:54:53,870 - root - INFO - 1 records committed
+2018-11-09 09:55:04,387 - root - WARNING - signal caught 15
+2018-11-09 09:55:04,387 - root - CRITICAL - Program is terminated 15
+2018-11-20 10:24:59,113 - root - INFO - Log directory : ./log
+2018-11-20 10:24:59,114 - root - INFO - Recording storage : ./rec
+2018-11-20 10:24:59,115 - root - INFO - WebDav Base URI : /recordings
+2018-11-20 10:24:59,115 - root - INFO - Log filename  : dwatcher
+2018-11-20 10:24:59,115 - root - INFO - Log level     : standard
+2018-11-20 10:37:04,259 - root - WARNING - signal caught 15
+2018-11-20 10:37:04,260 - root - CRITICAL - Program is terminated 15
