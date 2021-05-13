@@ -11,6 +11,8 @@ import logging
 import pymysql
 import re
 from proc_base import proc_base
+import shutil
+from util_hs import util_hs
 
 class db_handler(proc_base):
 
@@ -21,6 +23,7 @@ class db_handler(proc_base):
         self.regex_pattern_calluuid = re.compile(r'[A-Z0-9]*')
         self.CONST_FILEKEY_LEN = 43
         self.logger.write_log("debug", "DB handler object initialized")
+        self.util_hsobj = util_hs()
 
     def __del__(self):
         self.disconnect_database()
@@ -84,7 +87,7 @@ class db_handler(proc_base):
         calldate = yyyy + mm + dd
         return (calluuid, fullpath, calldate)
 
-    def do_job(self, _filename_list, _webdav_base):
+    def do_job(self, _filename_list, _webdav_base, _filecopy_use, _filecopy_target):
         n = len(_filename_list)
         if n <= 0:
             return
@@ -95,7 +98,17 @@ class db_handler(proc_base):
             ret_tup = self._get_recording_path(_filename_list[n-1], _webdav_base)
             if len(ret_tup) > 0:
                 temp_list.append(ret_tup)
+                if _filecopy_use == "Y":
+                    print(_filename_list[n-1])
+                    _basefilename = self.util_hsobj.get_pure_filename(_filename_list[n-1])
+                    _calldate = ret_tup[2]
+                    print(_basefilename)
+                    print(_calldate)
+                    shutil.copyfile(_filename_list[n-1], _filecopy_target + '/' + _calldate[0:4] +
+                            '/' + _calldate[4:6] + '/' + _calldate[6:8] + '/' + _basefilename)
+                    #shutil.copyfile(_filename_list[n-1], _filecopy_target + '/' + _basefilename)
             n -= 1
+
 
         result_tup = tuple(temp_list)
         # db insert

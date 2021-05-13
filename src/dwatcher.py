@@ -70,6 +70,8 @@ class dwatcher(app_base):
             self.db_port = data["db"]["port"]
             self.db_user = data["db"]["user"]
             self.db_password = data["db"]["password"]
+            self.filecopy_use = data["filecopy"]["use"]
+            self.filecopy_target = data["filecopy"]["target"]
         except Exception as e:
             self.logger.write_log("critical", ("config file open error => {0}:".format(e)))
             raise e
@@ -107,7 +109,7 @@ class dwatcher(app_base):
             if len(filenames) > 0:
                 # DB insert function
                 self.logger.write_log("debug", ('start time : %f' % time.time()))
-                self.db_proc.do_job(filenames, self.dir_webdav_base)
+                self.db_proc.do_job(filenames, self.dir_webdav_base, self.filecopy_use, self.filecopy_target)
                 self.logger.write_log("debug", ('end   time : %f' % time.time()))
             if self.exit_directory_watcher_thread == True:
                 self.dw.q_files.join()

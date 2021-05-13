@@ -1,0 +1,15 @@
+ * Serving Flask app "api" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "api.py", line 61, in <module>
+    app.run(host="0.0.0.0", port=8000, debug=True, threaded=True)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 943, in run
+    run_simple(host, port, self, **options)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/werkzeug/serving.py", line 795, in run_simple
+    s.bind(get_sockaddr(hostname, port, address_family))
+  File "/usr/lib64/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use

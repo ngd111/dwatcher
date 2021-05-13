@@ -110,3 +110,53 @@ Traceback (most recent call last):
   File "/home/winddori/dev/rfwatcher/api/api.py", line 18, in __init__
     self.conn.execute('pragma journal_mode=NONE;')
 OperationalError: unable to open database file
+[2019-04-25 12:26:24,764 | ERROR] Exception on /recording/01NAJ71J84E4H04D04000VTAES0002RN [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 87, in view
+    self = view.view_class(*class_args, **class_kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 12, in __init__
+    self.conn = pymysql.connect(host='localhost', port=3306, user='recuser', password='ghansol111@', db='recording',charset='utf8', autocommit=False)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 327, in __init__
+    self.connect()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 598, in connect
+    self._request_authentication()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 852, in _request_authentication
+    auth_packet = self._read_packet()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 656, in _read_packet
+    packet_header = self._read_bytes(4)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 702, in _read_bytes
+    CR.CR_SERVER_LOST, "Lost connection to MySQL server during query")
+OperationalError: (2013, 'Lost connection to MySQL server during query')
+[2019-08-21 10:32:08,505 | ERROR] Exception on /recording/01A9J2IEV0ED33KD04000VTAES0006TI [GET]
+Traceback (most recent call last):
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask_restful/__init__.py", line 480, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/flask/views.py", line 87, in view
+    self = view.view_class(*class_args, **class_kwargs)
+  File "/home/winddori/dev/rfwatcher/api/api.py", line 12, in __init__
+    self.conn = pymysql.connect(host='localhost', port=3306, user='recuser', password='ghansol111@', db='recording',charset='utf8', autocommit=False)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 327, in __init__
+    self.connect()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 598, in connect
+    self._request_authentication()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 852, in _request_authentication
+    auth_packet = self._read_packet()
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 656, in _read_packet
+    packet_header = self._read_bytes(4)
+  File "/home/winddori/dev/rfwatcher/lib/python2.7/site-packages/pymysql/connections.py", line 702, in _read_bytes
+    CR.CR_SERVER_LOST, "Lost connection to MySQL server during query")
+OperationalError: (2013, 'Lost connection to MySQL server during query')

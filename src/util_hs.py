@@ -16,6 +16,15 @@ class util_hs:
         _datehour = datetime.now().strftime("%Y%m%d%H")
         return self.add_hours(_datehour + "0000", -1)[:10]
 
+    def get_pure_filename(self, _fullfilename):
+        if isinstance(_fullfilename, str) == False:
+            raise TypeError("_fullfilename must be str type")
+
+        if len(_fullfilename) == 0:
+            raise ValueError("_fullfilename must be set")
+
+        return os.path.basename(_fullfilename.rstrip('/'))
+
 class log(object):
 
     def __init__(self, _loggerName, _logFileName):
